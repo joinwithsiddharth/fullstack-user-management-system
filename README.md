@@ -75,9 +75,9 @@ This project demonstrates the development of a full-stack CRUD application by in
 * Deploy the application on a cloud platform
 
 ![Home Page](Images/1.Home.png)
-![Register User Page](Images/register-user.png)
-![Edit User Page](Images/edit-user.png)
-![User Detail Page](Images/user-detail.png)
+![Register User Page](Images/2.register-user.png)
+![Edit User Page](Images/3.edit-user.png)
+![User Detail Page](Images/4.user-detail.png)
 ![MySQL Data Table Page](Images/mysql-data-table.png)
 
 
