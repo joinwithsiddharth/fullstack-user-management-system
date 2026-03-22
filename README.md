@@ -74,6 +74,6 @@ This project demonstrates the development of a full-stack CRUD application by in
 * Enhance user interface and user experience
 * Deploy the application on a cloud platform
 
-![Home Page](Images/Home.png)
+![Home Page](Images/1.Home.png)
 
 
